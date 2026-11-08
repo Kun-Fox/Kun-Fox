@@ -12,7 +12,7 @@ one persona, one memory system, and a consistent set of tools.
 | --- | --- |
 | [dsh-foxy](https://github.com/Kun-Fox/dsh-foxy) | Foxy agent preset, settings page, and extension API for DeepSeek Harness |
 | [dsh-foxy-memory](https://github.com/Kun-Fox/dsh-foxy-memory) | Memory browser and provider for DeepSeek Harness |
-| [dsh-foxy-bili](https://github.com/Kun-Fox/dsh-foxy-bili) | Bilibili browsing, comments, reply notifications, and private sharing |
+| [dsh-foxy-bili](https://github.com/Kun-Fox/dsh-foxy-bili) | Bilibili browsing windows, comments, and reply notifications |
 | [dsh-foxy-weibo](https://github.com/Kun-Fox/dsh-foxy-weibo) | Weibo login, scheduled reading, and post comments |
 | [koishi-plugin-chatluna-foxy-memory](https://github.com/Kun-Fox/koishi-chatluna-foxy-memory) | Cross-platform memory service for Koishi and ChatLuna |
 | [koishi-plugin-foxy-daily](https://github.com/Kun-Fox/koishi-plugin-foxy-daily) | Daily Qzone digest, comments, and reactions |
